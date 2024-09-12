@@ -96,7 +96,3 @@ Contains the posts created by users.
   }
 }
 ```
-
-```
-
-```
